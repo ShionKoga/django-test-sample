@@ -1,6 +1,7 @@
 # django-test-sample
 
-references
+###references
+
 -https://www.youtube.com/watch?v=rHux0gMZ3Eg
 
 -https://ideahack.net/how-to-build-macs-python-development-environment-with-pipinv/
